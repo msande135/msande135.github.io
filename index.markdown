@@ -8,39 +8,65 @@ title: "MS&E 135"
 
 ## Course Description
 
-x
+This course provides an introduction to how networks underly our social, technological, and natural worlds, with an emphasis on developing intuitions for broadly applicable concepts in network analysis. The course will include: an introduction to graph theory and graph concepts; social networks; information networks; the aggregate behavior of markets and crowds; network dynamics; information diffusion; the implications of popular concepts such as "six degrees of separation", the "friendship paradox", and the "wisdom of crowds".
 
 ## Instructors
-Johan Ugander, jugander@ 
+Prof. Johan Ugander, jugander@
 
-Monte Fischer (TA), m0nte@ 
-
-Greg Zanotti (TA), gzanotti@ 
+TAs: Monte Fischer, Anna Lee, Mokshlakshmi Bhan, Dev Narang
+Emails: m0nte, alee99, mbhan, devn @
 
 ## Schedule
-Class: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM in STLC 115
+Class: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Hewlett 201
 
 **Office Hours**
 
-* Greg: Tues 11:30a -- 1:30p (starting October 4) @ Encina W 101
-* Monte: Weds 3:00p -- 5:00p (starting October 5) @ Littlefield 103
-	* **NOTE:** Monte will hold office hours on Monday, 10/17 from 4--6pm @ Littlefield 103 instead of Wednesday to accommodate the new Assignment 1 deadline of 10/18.
-* Johan: Thurs 10:20a -- 11:15a (starting Sept 29)
+TBD
 
 ## Important Links
-* [Canvas page](https://canvas.stanford.edu/courses/162641)
-* [course Github repo](https://www.github.com/mse231/mse231_f22)
+* [Canvas page](https://canvas.stanford.edu/courses/xyz)
+* [Blog](http://web.stanford.edu/group/msande135/cgi-bin/wp/)
+* [Blog login](https://web.stanford.edu/group/msande135/cgi-bin/wp/wp-login.php)
 
-## Course structure and evaluation
-The class is organized around two lectures per week. Generally speaking, the first half of each lecture will be organized in “broadcast mode,” presenting an overview of an idea or field. The second half will transition to discussions of recent research literature.
+## Lecture schedule
 
-There are three problem sets and a project. See the weekly schedule below for a timeline. There are no quizzes, midterms, or exams. All submissions are due on Canvas by the start of lecture (9am) on the described days. Attendance is expected but not strictly mandatory.
+| Week | Topic | Assignments |
+| --- | --- | --- |
+| Week 1  | Course overview; Introduction to graph theory		| Visit Canvas |
+|         | Strong and weak ties	                        	| PS1 Out |
+| Week 2  | Homophily, Affiliation; Friendship paradox			| 	 |
+|         | Structural balance		                        	| PS1 Due; PS2 Out |
+| Week 3  | Game theory 										| 	 |
+|         | Congestion, Auctions	                        	| 	 |
+| Week 4  | Matching markets 									| 	 |
+|         | Bargaining & power   	                        	| PS2 Due; PS3 Out	 |
+| Week 5  | The web as a network								| 	 |
+|         | Link analysis   	                        	    | 	 |
+| Week 6  | Web search					            			| 	 |
+|         | Sponsored search as a market   	               	    | PS3 Due; PS4 Out	 |
+| Week 7  | Information cascades								| 	 |
+|         | Network effects, cascading behavior                 | 	 |
+| Week 8  | Rich-get-richer      								| 	 |
+|         | Small worlds   	                            	    | PS4 Due; PS5 Out	 |
+| Week 9  | Epidemics	            							| 	 |
+|         | Course review    	                        	    | 	 |
+| Week 10 | Guest lecture	        							| PS4 Due	 |
+|         | Practice exam     	                        	    | 	 |
+| Final   | Weds March 22, 8:30-11:30 							| | 
 
-Homework assignments are to be done in groups of 2-3, and the final project in groups of 2-5. You are strongly encouraged to form interdisciplinary teams for both the homework and project. All group members should be involved in completing each part of the homework assignments (i.e., think pair programming as opposed to divide-and-conquer).
+Assignment overview:
 
-There is an ungraded “Problem Set 0” for self-evaluation, available on the course homepage. It is intended to make sure you feel comfortable coding at the level that will be assumed as prerequisite. It is very strongly encouraged (if only to clean up your coding environment after a summer away from classes). No submissions of PS0 will be accepted.
+| Problem set 1: 	| Counting things with the Twitter API | 
+| Problem set 2:  	| Network analysis of Twitter data | 
+| Problem set 3: 	| Surveys and post-stratification | 
+| Project: 	| Open ended, per proposal process |
 
-There is a $30 course materials fee. There are no required textbooks or other course materials.
+## Honor code violations
+In the event that a student is found to have violated the honor code (including through Early Resolution), the penalty may include a full denial of credit for the course (not just the assignment). See the Student Conduct Penalty Code, Section J.
+
+## Students with Documented Disabilities:
+Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. For more information: http://studentaffairs.stanford.edu/oae
+
 
 ## Grading and late policies
 * 45% Problem Sets (15% each)
@@ -56,37 +82,3 @@ Problem sets and project proposal: your best bet is to hit all the deadlines. Fa
 Project: No extensions on the project. If you need an extension, please contact me to discuss my policy for taking an “incomplete” for the course.
 
 In the event of a family or medical emergency, I am fundamentally a reasonable person.
-
-## High level course schedule
-
-| Week | Topic | Assignments |
-| --- | --- | --- |
-| Week 1  | Introduction; observational CSS	| 	PS0; PS1 Out |
-| Week 2  | Causal Inference; Social algorithms I: search | |
-| Week 3  | Social algorithms II & III: Recsys, feed |  PS1 Due |
-| Week 4  | Network analysis						|   PS2 Out |
-| Week 5  | Social contagion, diffusion, social influence | |
-| Week 6  | Online surveys; digital demography |        PS2 Due; PS3 Out|
-| Week 7  | Cell phone and mobility data				| Project Proposal Due |	
-| Week 8  | Culturomics; Privacy						| PS3 Due |
-| | Thanksgiving break | |
-| Week 9  | Guest lectures                              | |
-| Week 10 | Project presentations                       | | 
-| Exam week | (No exam)							| Report Due | 
-
-Assignment overview:
-
-| Problem set 1: 	| Counting things with the Twitter API | 
-| Problem set 2:  	| Network analysis of Twitter data | 
-| Problem set 3: 	| Surveys and post-stratification | 
-| Project: 	| Open ended, per proposal process |
-
-## Honor code violations
-In the event that a student is found to have violated the honor code (including through Early Resolution), the penalty may include a full denial of credit for the course (not just the assignment). See the Student Conduct Penalty Code, Section J.
-
-## Students with Documented Disabilities:
-Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. For more information: http://studentaffairs.stanford.edu/oae
-
-## Computing Environment
-
-A Unix-like setup is required (e.g., Linux, OS X, or Cygwin). We will use Python 3 (JupyterLab is recommended). 
