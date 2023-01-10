@@ -28,6 +28,7 @@ Office Hours TBD
 ## Lecture schedule
 
 - All chapters reference Easley & Kleinberg ([PDF](https://www.cs.cornell.edu/home/kleinber/networks-book/))
+- Slides are posted to Canvas by the start of lectures
 
 | Week    |    | Topic | Reading | Assignments |
 | --- | --- | --- | --- | --- |
