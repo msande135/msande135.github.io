@@ -82,12 +82,12 @@ If you join the class late, please email Monte to obtain an account ID.
 To space out the post traffic, students are assigned "deadline weeks" at random, based on the ID number they are assigned for the class. You are responsible for submitting a blog post before Friday 11:59pm of the weeks you are assigned. If your number is 127, your ID falls in the range 100-199 and your deadlines are week 2 and week 6. You may of course submit your blog posts before the week they are due.
 
 
-| ID range	| Weeks	| Deadlines |
+| ID range	| Deadline Weeks	| 
 | --- | --- | --- |
-| 100-199	| 2, 6	| Jan 14, Feb 11 |
-| 200-299	| 3, 7	| Jan 21, Feb 18 |
-| 300-399	| 4, 8	| Jan 28, Feb 25 |
-| 400-499	| 5, 9	| Feb 4, Mar 4 |
+| 100-199	| Fridays Week 2, 6	| 
+| 200-299	| Fidaays Week 3, 7	| 
+| 300-399	| Fridays Week 4, 8	| 
+| 400-499	| Fridays Week 5, 9	| 
 
 **Inspiration:**
 Feel free to browse posts from previous years for inspiration, though the central stories for your commentaries should not come from this blog or any other similar course blog.
@@ -95,25 +95,42 @@ Feel free to browse posts from previous years for inspiration, though the centra
 
 ## Syllabus Details
 
+**Learning goals**
+Understand basic graph theory and network analysis
+Understand basic game theory and strategic behavior
+Develop a quantitative and qualitative intuition for the role of networks in social and technological systems.
 
-## Honor code violations
-In the event that a student is found to have violated the honor code (including through Early Resolution), the penalty may include a full denial of credit for the course (not just the assignment). See the Student Conduct Penalty Code, Section J.
+**Prerequisites**
+Almost no prior mathematical knowledge is assumed other than some basic probability (random variables, expectation, independence), which we will briefly review when it first arises. There are no programming assignments in this course. The course focuses on building intuitions. Many of the concepts covered in the course are given a more formal treatment in higher-level classes at Stanford. I will try to connect to those classes when applicable.
 
-## Students with Documented Disabilities:
+**Material**
+Easley and Kleinberg, Networks, Crowds, and Markets, Cambridge University Press, 2010
+
+The complete textbook is available online as a free PDF, but can also be ordered as a reasonably priced hardcover.
+
+**Problem Set Rules**
+All problem sets are to be submitted during the corresponding lecture day. Submissions will be made online, through Gradescope, as linked to from Canvas.
+
+Collaboration policy: You may discuss the problem sets with other students in the class, but since the goal is to practice skills, the actual writing up of the solutions must be done separately. In particular, this means that your solution should not word-for-word resemble another student's. In short, students are expected to abide by Stanford’s honor code.
+
+Late Policy: No late assignments will be accepted.
+
+Grading: The lowest problem set grade will be dropped, and the remaining problem sets will recieve equal weight.
+Effectively the last two bullets mean that if you are unable to submit one problem set by the deadline, you will be "dropping" that problem set and graded on the remaining 4 problem sets. It's not advisable to miss more than one deadline.
+
+Extreme circumstances: please email me, I am a reasonable human being.
+
+**Final exam**
+The exam will be a 3 hour in-person exam given Wednesday, March 22, 8:30-11:30 am PT.
+
+**Evaluation**
+- Problem sets (50%)
+- Blog posts (10%)
+- Collegiality (5%)
+- Final (35%)
+
+**Honor code violations**
+In the event that a student is found to have violated the honor code (including through Early Resolution), the penality may include a full denial of credit for the course (not just the assignment). See the Student Conduct Penalty Code, Section J.
+
+**Students with Documented Disabilities**
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. For more information: http://studentaffairs.stanford.edu/oae
-
-
-## Grading and late policies
-* 45% Problem Sets (15% each)
-* 10% Project proposal
-* 40% Project presentation and report
-* 5% Participation and collegiality
-
-Problem sets and project proposal: your best bet is to hit all the deadlines. Failing that, the following policy is designed to prioritize completing problem sets vs. not completing, submitting problem sets vs. not submitting.  
-- One single delay of up to 2 days (48 hours), no questions asked. 
-- After that: 5 points deducted per day (per 24h, including weekends), up to 6 days. Limited CA availability. 
-- After that: no CA support will be provided and max grade is a 70. Must be submitted by Monday Dec 5, 11:59p PT (after that, grade is 0), and no guarantees on grading turn-around time.
-
-Project: No extensions on the project. If you need an extension, please contact me to discuss my policy for taking an “incomplete” for the course.
-
-In the event of a family or medical emergency, I am fundamentally a reasonable person.
