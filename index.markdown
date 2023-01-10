@@ -29,7 +29,7 @@ Office Hours TBD
 
 - All chapters reference Easley & Kleinberg [PDF](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 
-| Week | Topic | Assignments |
+| Week | Topic | Reading | Assignments |
 | --- | --- | --- | --- |
 | Week 1  | Tu |  Course overview; Introduction to graph theory		| Ch 1, 2.1-2.3 | Visit Canvas |
 |         | Th | Strong and weak ties	                        	| Ch 3.1-3.3    | PS1 Out |
