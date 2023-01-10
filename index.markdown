@@ -21,7 +21,7 @@ Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Hewlett 201
 Office Hours TBD
 
 ## Important Links
-* [Canvas page](https://canvas.stanford.edu/courses/xyz)
+* [Canvas page](https://canvas.stanford.edu/courses/166109)
 * [Blog](http://web.stanford.edu/group/msande135/cgi-bin/wp/)
 * [Blog login](https://web.stanford.edu/group/msande135/cgi-bin/wp/wp-login.php)
 
