@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "MS&E 135"
+title: "MS&E 135 Networks"
 ---
 
 ## Course Description
