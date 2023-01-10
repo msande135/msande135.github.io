@@ -11,16 +11,14 @@ title: "MS&E 135"
 This course provides an introduction to how networks underly our social, technological, and natural worlds, with an emphasis on developing intuitions for broadly applicable concepts in network analysis. The course will include: an introduction to graph theory and graph concepts; social networks; information networks; the aggregate behavior of markets and crowds; network dynamics; information diffusion; the implications of popular concepts such as "six degrees of separation", the "friendship paradox", and the "wisdom of crowds".
 
 ## Instructors
-Prof. Johan Ugander, jugander@
+Professor: Johan Ugander (jugander)
 
-TAs: Monte Fischer, Anna Lee, Mokshlakshmi Bhan, Dev Narang
-
-Emails: m0nte, alee99, mbhan, devn @
+TAs: Monte Fischer (m0nte), Anna Lee (alee99), Mokshlakshmi Bhan (mbhan), Dev Narang (devn)
 
 ## Schedule
 Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Hewlett 201
 
-**Office Hours TBD**
+Office Hours TBD
 
 ## Important Links
 * [Canvas page](https://canvas.stanford.edu/courses/xyz)
@@ -28,6 +26,8 @@ Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Hewlett 201
 * [Blog login](https://web.stanford.edu/group/msande135/cgi-bin/wp/wp-login.php)
 
 ## Lecture schedule
+
+- All chapters reference Easley & Kleinberg [PDF](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 | Week | Topic | Assignments |
 | --- | --- | --- | --- |
@@ -95,16 +95,16 @@ Feel free to browse posts from previous years for inspiration, though the centra
 
 ## Syllabus Details
 
-**Learning goals**
-Understand basic graph theory and network analysis
-Understand basic game theory and strategic behavior
-Develop a quantitative and qualitative intuition for the role of networks in social and technological systems.
+**Learning goals:**
+- Understand basic graph theory and network analysis
+- Understand basic game theory and strategic behavior
+- Develop a quantitative and qualitative intuition for the role of networks in social and technological systems.
 
-**Prerequisites**
+**Prerequisites:**
 Almost no prior mathematical knowledge is assumed other than some basic probability (random variables, expectation, independence), which we will briefly review when it first arises. There are no programming assignments in this course. The course focuses on building intuitions. Many of the concepts covered in the course are given a more formal treatment in higher-level classes at Stanford. I will try to connect to those classes when applicable.
 
-**Material**
-Easley and Kleinberg, Networks, Crowds, and Markets, Cambridge University Press, 2010
+**Material:**
+- Easley and Kleinberg, [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/), Cambridge University Press, 2010
 
 The complete textbook is available online as a free PDF, but can also be ordered as a reasonably priced hardcover.
 
