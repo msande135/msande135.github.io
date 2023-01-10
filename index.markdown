@@ -14,14 +14,13 @@ This course provides an introduction to how networks underly our social, technol
 Prof. Johan Ugander, jugander@
 
 TAs: Monte Fischer, Anna Lee, Mokshlakshmi Bhan, Dev Narang
+
 Emails: m0nte, alee99, mbhan, devn @
 
 ## Schedule
-Class: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Hewlett 201
+Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Hewlett 201
 
-**Office Hours**
-
-TBD
+**Office Hours TBD**
 
 ## Important Links
 * [Canvas page](https://canvas.stanford.edu/courses/xyz)
@@ -31,35 +30,71 @@ TBD
 ## Lecture schedule
 
 | Week | Topic | Assignments |
+| --- | --- | --- | --- |
+| Week 1  | Tu |  Course overview; Introduction to graph theory		| Visit Canvas |
+|         | Th | Strong and weak ties	                        	| PS1 Out |
+| Week 2  | Tu | Homophily, Affiliation; Friendship paradox			| 	 |
+|         | Th | Structural balance		                        	| PS1 Due; PS2 Out |
+| Week 3  | Tu | Game theory 										| 	 |
+|         | Th | Congestion, Auctions	                        	| 	 |
+| Week 4  | Tu | Matching markets 									| 	 |
+|         | Th | Bargaining & power   	                        	| PS2 Due; PS3 Out	 |
+| Week 5  | Tu | The web as a network								| 	 |
+|         | Th | Link analysis   	                        	    | 	 |
+| Week 6  | Tu | Web search					            			| 	 |
+|         | Th | Sponsored search as a market   	               	    | PS3 Due; PS4 Out	 |
+| Week 7  | Tu | Information cascades								| 	 |
+|         | Th | Network effects, cascading behavior                 | 	 |
+| Week 8  | Tu | Rich-get-richer      								| 	 |
+|         | Th | Small worlds   	                            	    | PS4 Due; PS5 Out	 |
+| Week 9  | Tu | Epidemics	            							| 	 |
+|         | Th | Course review    	                        	    | 	 |
+| Week 10 | Tu | Guest lecture	        							| PS4 Due	 |
+|         | Th | Practice exam     	                        	    | 	 |
+| Final   | Weds | March 22, 8:30-11:30 							| | 
+
+## Problem Sets
+
+Problem sets are posted on Canvas and submitted via Gradescope. Solutions will be posted to Canvas soon after the submission deadline. See the syllabus details (below) for detailed information about submission, grading, late, and collaboration policy.
+
+## Writing blog posts
+
+All students will be required to write two short blog posts during the quarter, posted to a course blog and taking the form of a miniature reaction paper.
+
+**Format:**
+Each post should be centered around an recent news article, academic paper, online essay, new company or organization, and contain at least one web link on that subject. The goal is to provide commentary that gives context around the subject, targeted at your peers in the course (or similarly informed outsiders). Why do you think it interesting or relevant? The post should be at least two paragraphs.
+
+One of the purposes of these writing assignments is to practice communicating your thoughts in a public forum (albeit anonymously, see the privacy discussion below). Your audience is each other, not just the course staff. Engage each other! Posts that dialogue with earlier posts from the course are encouraged, though should add significantly to the previous points made (in part by referencing a new news article/paper/essay).
+
+You should keep in mind, as you write your posts, that if you refer to a company, organization, or research project in the outside world, the people you’re talking about may well end up reading what you write. Finally, adding inappropriate, rude, or disruptive content to the blog will result in a 0 for this part of the course grade, and (depending on the nature of the content) potentially stronger actions. Plagiarism is also not acceptable; the Honor Code applies.
+
+**Grading:**
+Posts will be graded on a 10 point scale based on their relevance to the class, novelty, and quality of the insights and writing. For blog posts (and blog posts only; the following policy does not apply to problem sets) late submissions (after Friday 11:59pm of the assigned week) will have 2 points deducted. Late submissions after Friday of Week 10 will not be considered and therefore given a 0/10 grade. Some posts will be mentioned and discussed in lectures. You are encouraged but not required to read the posts by your classmates.
+
+**Account creation and privacy:**
+No student will be required to make their identity public as part of these assignments. During the first week each student will be randomly assigned to an ID number between 100 and 499. You will be emailed instructions for how to log in to your account. If you have any problems with your blog account, please email Monte.
+
+The course staff will keep a private record of the user names and the corresponding real names for purposes of grading. Nothing prevents you from including your real names in the text of a post, if you choose to do so, but please do not mention other students by name as a blanket policy. You are free to mention the instructor or TAs (e.g.: "Professor Ugander mentioned that...").
+
+If you join the class late, please email Monte to obtain an account ID.
+
+**Scheduling:** 
+To space out the post traffic, students are assigned "deadline weeks" at random, based on the ID number they are assigned for the class. You are responsible for submitting a blog post before Friday 11:59pm of the weeks you are assigned. If your number is 127, your ID falls in the range 100-199 and your deadlines are week 2 and week 6. You may of course submit your blog posts before the week they are due.
+
+
+| ID range	| Weeks	| Deadlines |
 | --- | --- | --- |
-| Week 1  | Course overview; Introduction to graph theory		| Visit Canvas |
-|         | Strong and weak ties	                        	| PS1 Out |
-| Week 2  | Homophily, Affiliation; Friendship paradox			| 	 |
-|         | Structural balance		                        	| PS1 Due; PS2 Out |
-| Week 3  | Game theory 										| 	 |
-|         | Congestion, Auctions	                        	| 	 |
-| Week 4  | Matching markets 									| 	 |
-|         | Bargaining & power   	                        	| PS2 Due; PS3 Out	 |
-| Week 5  | The web as a network								| 	 |
-|         | Link analysis   	                        	    | 	 |
-| Week 6  | Web search					            			| 	 |
-|         | Sponsored search as a market   	               	    | PS3 Due; PS4 Out	 |
-| Week 7  | Information cascades								| 	 |
-|         | Network effects, cascading behavior                 | 	 |
-| Week 8  | Rich-get-richer      								| 	 |
-|         | Small worlds   	                            	    | PS4 Due; PS5 Out	 |
-| Week 9  | Epidemics	            							| 	 |
-|         | Course review    	                        	    | 	 |
-| Week 10 | Guest lecture	        							| PS4 Due	 |
-|         | Practice exam     	                        	    | 	 |
-| Final   | Weds March 22, 8:30-11:30 							| | 
+| 100-199	| 2, 6	| Jan 14, Feb 11 |
+| 200-299	| 3, 7	| Jan 21, Feb 18 |
+| 300-399	| 4, 8	| Jan 28, Feb 25 |
+| 400-499	| 5, 9	| Feb 4, Mar 4 |
 
-Assignment overview:
+**Inspiration:**
+Feel free to browse posts from previous years for inspiration, though the central stories for your commentaries should not come from this blog or any other similar course blog.
 
-| Problem set 1: 	| Counting things with the Twitter API | 
-| Problem set 2:  	| Network analysis of Twitter data | 
-| Problem set 3: 	| Surveys and post-stratification | 
-| Project: 	| Open ended, per proposal process |
+
+## Syllabus Details
+
 
 ## Honor code violations
 In the event that a student is found to have violated the honor code (including through Early Resolution), the penalty may include a full denial of credit for the course (not just the assignment). See the Student Conduct Penalty Code, Section J.
