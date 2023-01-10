@@ -31,23 +31,23 @@ Office Hours TBD
 
 | Week | Topic | Assignments |
 | --- | --- | --- | --- |
-| Week 1  | Tu |  Course overview; Introduction to graph theory		| Visit Canvas |
-|         | Th | Strong and weak ties	                        	| PS1 Out |
-| Week 2  | Tu | Homophily, Affiliation; Friendship paradox			| 	 |
-|         | Th | Structural balance		                        	| PS1 Due; PS2 Out |
-| Week 3  | Tu | Game theory 										| 	 |
-|         | Th | Congestion, Auctions	                        	| 	 |
-| Week 4  | Tu | Matching markets 									| 	 |
-|         | Th | Bargaining & power   	                        	| PS2 Due; PS3 Out	 |
-| Week 5  | Tu | The web as a network								| 	 |
-|         | Th | Link analysis   	                        	    | 	 |
-| Week 6  | Tu | Web search					            			| 	 |
-|         | Th | Sponsored search as a market   	               	    | PS3 Due; PS4 Out	 |
-| Week 7  | Tu | Information cascades								| 	 |
-|         | Th | Network effects, cascading behavior                 | 	 |
-| Week 8  | Tu | Rich-get-richer      								| 	 |
-|         | Th | Small worlds   	                            	    | PS4 Due; PS5 Out	 |
-| Week 9  | Tu | Epidemics	            							| 	 |
+| Week 1  | Tu |  Course overview; Introduction to graph theory		| Ch 1, 2.1-2.3 | Visit Canvas |
+|         | Th | Strong and weak ties	                        	| Ch 3.1-3.3    | PS1 Out |
+| Week 2  | Tu | Homophily, Affiliation; Friendship paradox			| Ch 4.1-4.3    |	 |
+|         | Th | Structural balance		                        	| Ch 5.1-5.4    | PS1 Due; PS2 Out |
+| Week 3  | Tu | Game theory 										| Ch 6.1-6.9    |	 |
+|         | Th | Congestion, Auctions	                        	| Ch 8.1-8.2, 9.1-9.2     |	 |
+| Week 4  | Tu | Matching markets 									| Ch 9.3-9.6, 10.1-10.4   |	 |
+|         | Th | Bargaining & power   	                        	| Ch 12.1-12.3, 12.5-12.8 | PS2 Due; PS3 Out	 |
+| Week 5  | Tu | The web as a network								| Ch 13.1-13.5            |	 |
+|         | Th | Link analysis   	                        	    | Ch 14.1-14.3 |	 |
+| Week 6  | Tu | Web search					            			| Ch 14.4-14.5 |	 |
+|         | Th | Sponsored search as a market   	               	| Ch 15.1-15.5 | PS3 Due; PS4 Out	 |
+| Week 7  | Tu | Information cascades								| Ch 16.1-16.7 |	 |
+|         | Th | Network effects, cascading behavior                | Ch 17.1-17.3, 19.1-19.4 | 	 |
+| Week 8  | Tu | Rich-get-richer      								| Ch 18.1-18.6	 |
+|         | Th | Small worlds   	                            	| Ch 20.1-20.6 | PS4 Due; PS5 Out	 |
+| Week 9  | Tu | Epidemics	            							| Ch 21.1-21.4, 21.6	 |
 |         | Th | Course review    	                        	    | 	 |
 | Week 10 | Tu | Guest lecture	        							| PS4 Due	 |
 |         | Th | Practice exam     	                        	    | 	 |
