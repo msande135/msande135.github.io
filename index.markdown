@@ -20,7 +20,7 @@ Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Hewlett 201
 
 Office Hours:
 * Monday 3-5pm @ Lathrop 294 with Mokshlakshmi Bhan, except MLK week and President's week.
-  * For the off-weeks, office hours will be held instead Wednesday 1/18 and Wednesday 2/15 from 1:30pm-3:30pm @ Shriram 368.
+  * For the off-weeks, office hours will be held instead Wednesday 1/18 and Wednesday 2/22 from 1:30pm-3:30pm @ Shriram 368.
 * Tuesday 11:30am - 1:30pm @ Shriram 368 with Dev Narang.
 * Wednesday 11:30am - 1:30pm @ Thornton 210 with Monte Fischer.
 * Wednesday 3-5pm @ Shriram 366 with Anna Lee.
