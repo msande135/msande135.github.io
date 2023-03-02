@@ -54,8 +54,8 @@ Office Hours:
 | Week 8  | Tu | Rich-get-richer      								| Ch 18.1-18.6	 |
 |         | Th | Small worlds   	                            	| Ch 20.1-20.6 | PS4 Due; PS5 Out	 |
 | Week 9  | Tu | Epidemics	            							| Ch 21.1-21.4, 21.6	 |
-|         | Th | Course review    	                        	    | |	         |
-| Week 10 | Tu | Guest lecture	        							| | PS5 Due	 |
+|         | Th | Guest lecture, Serina Chang    	            	    | |	         |
+| Week 10 | Tu | Course review	        							| | PS5 Due	 |
 |         | Th | Practice exam     	                        	    | | 	     |
 | Final   | Weds | March 22, 8:30-11:30 							| |          | 
 
