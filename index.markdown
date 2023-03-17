@@ -25,6 +25,12 @@ Office Hours:
 * Wednesday 11:30am - 1:30pm @ Thornton 210 with Monte Fischer.
 * Wednesday 3-5pm @ Shriram 366 with Anna Lee.
 
+Final Prep Office Hours:
+* Friday March 17, 12:30pm-2:30pm @ Shriram 108 with Monte
+* Monday March 20, 11:30am-1:30pm @ Zoom with Shmi
+* Monday March 20,  2:30pm-4:30pm @ Shrirm 108 with Dev
+* Tuesday March 31, 4:00pm-6:00pm @ Huang 305 with Anna
+
 ## Important Links
 * [Canvas page](https://canvas.stanford.edu/courses/166109)
 * [Blog](http://web.stanford.edu/group/msande135/cgi-bin/wp/)
