@@ -21,7 +21,7 @@
 title: "MS&E 135 Networks"
 email: jugander@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    Stanford University, Winter Quarter 2024
+    Stanford University, Winter Quarter 2023
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://msande135.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  msande135
