@@ -13,7 +13,7 @@ This course provides an introduction to how networks underly our social, technol
 ## Instructors
 Professor: Johan Ugander (jugander)
 
-TAs: xyz
+TAs: Cole Crichton (colehc), Roberto Lobato Lopez (rlobato), Sophia Love (sophialove), Nirali Parekh (nirali25)
 
 ## Schedule
 Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Bldg 420 Room 041
