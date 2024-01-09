@@ -23,7 +23,7 @@ Office Hours:
 * Roberto TBD
 * Sophia TBD
 * Nirali TBD
-* Prof. Ugander (course admin): Thurs 10:30-noon PT
+* Prof. Ugander: Thurs 10:30-noon PT
 
 ## Important Links
 * [Canvas page](https://canvas.stanford.edu/courses/182119)
@@ -54,10 +54,10 @@ Office Hours:
 | Week 8  | Tu | Rich-get-richer      								| Ch 18.1-18.6	 |
 |         | Th | Small worlds   	                            	| Ch 20.1-20.6 | PS4 Due; PS5 Out	 |
 | Week 9  | Tu | Epidemics	            							| Ch 21.1-21.4, 21.6	 |
-|         | Th | Guest lecture, Serina Chang    	            	    | |	         |
+|         | Th | Guest lecture (TBD)            	    | |	         |
 | Week 10 | Tu | Course review	        							| | PS5 Due	 |
 |         | Th | Practice exam     	                        	    | | 	     |
-| Final   | Weds | March 22, 8:30-11:30 							| |          | 
+| Final   | Weds | March 20, 8:30-11:30 							| |          | 
 
 ## Problem Sets
 
@@ -127,7 +127,7 @@ Effectively the last two bullets mean that if you are unable to submit one probl
 Extreme circumstances: please email me, I am a reasonable human being.
 
 **Final exam**
-The exam will be a 3 hour in-person exam given Wednesday, March 22, 8:30-11:30 am PT.
+The exam will be a 3 hour in-person exam given Wednesday, March 20, 8:30-11:30 am PT.
 
 **Evaluation**
 - Problem sets (50%)
