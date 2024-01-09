@@ -13,16 +13,26 @@ This course provides an introduction to how networks underly our social, technol
 ## Instructors
 Professor: Johan Ugander (jugander)
 
-TAs: xyz
+TAs: Monte Fischer (m0nte), Anna Lee (alee99), Mokshlakshmi Bhan (mbhan), Dev Narang (devn)
 
 ## Schedule
-Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Bldg 420 Room 041
+Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Hewlett 201
 
 Office Hours:
-* TBD
+* Monday 3-5pm @ Lathrop 294 with Mokshlakshmi Bhan, except MLK week and President's week.
+  * For the off-weeks, office hours will be held instead Wednesday 1/18 and Wednesday 2/22 from 1:30pm-3:30pm @ Shriram 368.
+* Tuesday 11:30am - 1:30pm @ Shriram 368 with Dev Narang.
+* Wednesday 11:30am - 1:30pm @ Thornton 210 with Monte Fischer.
+* Wednesday 3-5pm @ Shriram 366 with Anna Lee.
+
+Final Prep Office Hours:
+* Friday March 17, 12:30pm-2:30pm @ Shriram 108 with Monte
+* Monday March 20, 11:30am-1:30pm @ Zoom with Shmi
+* Monday March 20,  2:30pm-4:30pm @ Shrirm 108 with Dev
+* Tuesday March 31, 4:00pm-6:00pm @ Huang 305 with Anna
 
 ## Important Links
-* [Canvas page](https://canvas.stanford.edu/courses/182119)
+* [Canvas page](https://canvas.stanford.edu/courses/166109)
 * [Blog](http://web.stanford.edu/group/msande135/cgi-bin/wp/)
 * [Blog login](https://web.stanford.edu/group/msande135/cgi-bin/wp/wp-login.php)
 
