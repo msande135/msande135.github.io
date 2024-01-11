@@ -19,11 +19,11 @@ TAs: Cole Crichton (colehc), Roberto Lobato Lopez (rlobato), Sophia Love (sophia
 Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Bldg 420 Room 041
 
 Office Hours:
-* Cole TBD
-* Roberto TBD
-* Sophia TBD
-* Nirali TBD
-* Prof. Ugander: Thurs 10:30-noon PT
+* Monday 7p-9p, Cole, TBD
+* Tues 1p-3p, Nirali, Spilker 218
+* Weds 11p-1p, Roberto, Main Quad 200-030
+* Weds 4p-6p, Sophia, TBD
+* Prof. Ugander: Thurs 10:30a-noon PT, Huang 357
 
 ## Important Links
 * [Canvas page](https://canvas.stanford.edu/courses/182119)
