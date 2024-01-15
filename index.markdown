@@ -19,7 +19,7 @@ TAs: Cole Crichton (colehc), Roberto Lobato Lopez (rlobato), Sophia Love (sophia
 Lectures: Tuesdays & Thursdays @ 9:00 AM -- 10:20 AM, Bldg 420 Room 041
 
 Office Hours:
-* Monday 7p-9p, Cole, TBD
+* Monday 7p-9p, Cole, Huang B007
 * Tues 1p-3p, Nirali, Spilker 218
 * Weds 11p-1p, Roberto, Main Quad 200-030
 * Weds 4p-6p, Sophia, TBD
