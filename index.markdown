@@ -53,8 +53,8 @@ Office Hours:
 |         | Th | Network effects, cascading behavior                | Ch 17.1-17.3, 19.1-19.4 | 	 |
 | Week 8  | Tu | Rich-get-richer      								| Ch 18.1-18.6	 |
 |         | Th | Small worlds   	                            	| Ch 20.1-20.6 | PS4 Due; PS5 Out	 |
-| Week 9  | Tu | Epidemics	            							| Ch 21.1-21.4, 21.6	 |
-|         | Th | Guest lecture (TBD)            	    | |	         |
+| Week 9  | Tu | Guest lecture (Dr. Kirsten Altenburger)	            		| 	 |
+|         | Th | Epidemics             	    | Ch 21.1-21.4, 21.6 |	         |
 | Week 10 | Tu | Course review	        							| | PS5 Due	 |
 |         | Th | Practice exam     	                        	    | | 	     |
 | Final   | Weds | March 20, 8:30-11:30 							| |          | 
